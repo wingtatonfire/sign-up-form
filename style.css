@@ -2,7 +2,6 @@ body {
     display: flex;
     flex-direction: row;
     background-color: seashell;
-
 }
 
 input {
@@ -100,6 +99,7 @@ input:invalid {
 @font-face {
     font-family: 'norse';
     src: url('fonts/Norse-Bold.otf') format('opentype');
+    
     font-weight: normal;
     font-style: normal;
 }
